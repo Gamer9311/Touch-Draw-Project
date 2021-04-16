@@ -1,0 +1,13 @@
+#myCanvas
+{
+    border-style: ridge;
+    background-color: cyan;
+}
+
+#MP
+{
+    background: url("https://images-na.ssl-images-amazon.com/images/I/815Rbg4cb1L._SL1500_.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
